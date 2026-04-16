@@ -1,0 +1,4 @@
+{
+  "upstream": "hashicorp/vault-action",
+  "version": "v3.4.0"
+}
