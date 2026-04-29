@@ -1,6 +1,12 @@
 # hashicorp/vault-action
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/hashicorp/vault-action](https://github.com/hashicorp/vault-action).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v3.4.0 | [`v3.4.0`](https://github.com/chainguard-actions/vault-action/tree/v3.4.0) | — |
 
 ## Privacy
 
