@@ -1,5 +1,6 @@
 {
   "owner": "hashicorp",
   "name": "vault-action",
-  "visibility": ""
+  "visibility": "internal",
+  "description": "A GitHub Action that simplifies using HashiCorp Vault™ secrets as build variables."
 }

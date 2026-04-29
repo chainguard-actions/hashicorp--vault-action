@@ -1,5 +1,7 @@
 # hashicorp/vault-action
 
+A GitHub Action that simplifies using HashiCorp Vault™ secrets as build variables.
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/hashicorp/vault-action](https://github.com/hashicorp/vault-action).
 
 ## Versions
