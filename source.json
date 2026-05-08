@@ -1,4 +1,6 @@
 {
-  "upstream": "hashicorp/vault-action",
-  "version": "v3.4.0"
+  "owner": "hashicorp",
+  "repo": "vault-action",
+  "version": "",
+  "url": "https://github.com/hashicorp/vault-action"
 }

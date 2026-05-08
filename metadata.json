@@ -2,5 +2,6 @@
   "owner": "hashicorp",
   "name": "vault-action",
   "visibility": "internal",
-  "description": "A GitHub Action that simplifies using HashiCorp Vault™ secrets as build variables."
+  "description": "A GitHub Action that simplifies using HashiCorp Vault™ secrets as build variables.",
+  "block_publish": false
 }
